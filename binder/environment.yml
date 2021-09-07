@@ -1,11 +1,11 @@
 name: forge
 channels:
-	- conda-forge
+  - conda-forge
 dependencies:
-	- python=3.7
-	- geopandas
-	- datetime import datetime
-	- numpy
-	- shapelly
-	- pyproj
-	- contextily
+  - python=3.7
+  - geopandas
+  - datetime
+  - numpy
+  - shapelly
+  - pyproj
+  - contextily
