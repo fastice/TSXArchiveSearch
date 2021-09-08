@@ -2,9 +2,9 @@
 # TSXArchiveSearch
 Jupyter notebook for searching TSX archive shapefile
 
-TSXSearch.ipynb - Searches the TSX archive to find frames at desired location and time range and filtered for various parameters.
+**TSXSearch.ipynb** - Searches the TSX archive to find frames at desired location and time range and filtered for various parameters.
 
-ReduceDataBase.ipynb - Most users can ignore this. It is used to reduce the number of columns of data in the data base.
+**ReduceDataBase.ipynb** - Most users can ignore this. It is used to reduce the number of columns of data in the data base.
 
 # Binder
 
