@@ -12,6 +12,6 @@ This notebook can be run in binder by clicking on the "Launch Binder" logo. Once
 # Local Use
 
 To run on you own machine
-'''
+```
 git clone git@github.com:fastice/TSXArchiveSearch.git
-'''
+```
