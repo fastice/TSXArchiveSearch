@@ -11,7 +11,8 @@ This notebook can be run in binder by clicking on the "Launch Binder" logo. Once
 
 # Local Use
 
-To run on you own machine
+To run on a local machine
 ```
 git clone git@github.com:fastice/TSXArchiveSearch.git
 ```
+Launch Jupyter and run "TSXSearch.ipynb".
